@@ -1,0 +1,6 @@
+Assault_on_the_Death_Star
+Luke 80 X-Wing
+Darth_Vader 100 Tie-Fighter
+20 25
+10 20
+5 15

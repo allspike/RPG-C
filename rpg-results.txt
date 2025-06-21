@@ -1,0 +1,46 @@
+==============================
+The Battle of Assault_on_the_Death_Star
+==============================
+
+Luke (80) with a X-Wing
+    vs
+Darth_Vader (100) with a Tie-Fighter
+
+-------------------------------
+Luke: 80 | Darth_Vader: 100
+-------------------------------
+
+Luke drinks a healing potion and is now at 80 health! 
+
+-------------------------------
+Darth_Vader: 100 | Luke: 80
+-------------------------------
+
+Darth_Vader has challenged Luke to fight
+    Darth_Vader: 22 | Luke: 23
+Luke deals 1 damage to Darth_Vader
+
+-------------------------------
+Luke: 80 | Darth_Vader: 99
+-------------------------------
+
+Luke has challenged Darth_Vader to fight
+    Luke: 25 | Darth_Vader: 22
+Luke deals 3 damage to Darth_Vader
+
+-------------------------------
+Darth_Vader: 96 | Luke: 80
+-------------------------------
+
+Darth_Vader uses a Tie-Fighter to attack Luke for 16 damage 
+
+-------------------------------
+Luke: 64 | Darth_Vader: 96
+-------------------------------
+
+Luke drinks a healing potion and regains 8 health points
+
+-------------------------------
+Darth_Vader: 96 | Luke: 72
+-------------------------------
+
